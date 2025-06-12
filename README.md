@@ -5,4 +5,4 @@ i am doing this as a demo work
 <br>
 currently i am a computer science enthusiast
 <br>
-author - DAKSH YADAV
+author - DAKSH RAO
